@@ -1,4 +1,4 @@
-HW3 | Cloud Computing | Nagendra Gautham Gondi  
+**User Interface for Weather Web Application**  
   
 Application:  
   
@@ -21,5 +21,3 @@ https://fonts.google.com
 https://www.udemy.com/bootstrap4-course/  
   
 Application : http://18.219.234.0  
-Github : https://github.uc.edu/gondinm/Cloud_Computing/tree/master/HW3  
-Readme: https://github.uc.edu/gondinm/Cloud_Computing/blob/master/HW3/README.md  
